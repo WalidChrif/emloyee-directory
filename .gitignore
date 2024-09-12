@@ -5,6 +5,9 @@ target/
 !**/src/test/**/target/
 .env
 *.env
+mvnw
+mvnw.cmd
+.mvn
 
 ### STS ###
 .apt_generated
